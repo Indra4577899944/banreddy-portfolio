@@ -1,4 +1,5 @@
 # 🚀 AI-Powered Resume Matcher (Full-Stack)
+![Image](https://github.com/user-attachments/assets/d0084f27-c58b-4ccc-b895-2b2707503ee9)
 Built by **Indra** - Aspiring Software Engineer
 
 ## 📖 Project Overview
